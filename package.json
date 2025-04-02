@@ -1,0 +1,14 @@
+{
+  "name": "everyday-ai",
+  "version": "0.1.0",
+  "description": "[PRESENTATION] Everyday AI: Practical Applications Beyond the Chatbot",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
+}
